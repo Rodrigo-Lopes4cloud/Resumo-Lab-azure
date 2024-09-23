@@ -12,3 +12,8 @@ Segue a confirmação da criação da maquina virtual para futuros testes.
 
 Segue a confirmação da criação do banco de dados dentro do Azure AD
 ![image](https://github.com/user-attachments/assets/6e49dc5c-f459-47fe-a0e3-07c05792cb2d)
+
+# Terceira entrega de projeto: Criando o grupo de Recursos #
+
+Feito o primeiro passo para toda a configuração criando o grupo de recursos
+![image](https://github.com/user-attachments/assets/f2512f0f-9c67-4148-bd55-61a71ae14e44)
