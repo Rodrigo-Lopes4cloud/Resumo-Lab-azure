@@ -17,3 +17,6 @@ Segue a confirmação da criação do banco de dados dentro do Azure AD
 
 Feito o primeiro passo para toda a configuração criando o grupo de recursos
 ![image](https://github.com/user-attachments/assets/f2512f0f-9c67-4148-bd55-61a71ae14e44)
+
+Conta de armazenamento criada e implementado. 
+![image](https://github.com/user-attachments/assets/2ae641c5-34ce-4b86-ba3c-22fdeb1a8ff2)
