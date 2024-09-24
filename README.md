@@ -20,3 +20,10 @@ Feito o primeiro passo para toda a configuração criando o grupo de recursos
 
 Conta de armazenamento criada e implementado. 
 ![image](https://github.com/user-attachments/assets/2ae641c5-34ce-4b86-ba3c-22fdeb1a8ff2)
+
+
+Em seguida a criação e verificação de roles de usuarios dentro do ENTRA ID.
+![image](https://github.com/user-attachments/assets/e70cfe8f-4958-4faa-853a-549e8198d828)
+
+![image](https://github.com/user-attachments/assets/b639b95d-7478-4a1e-a9f4-eb974ca6404b)
+
