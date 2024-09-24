@@ -32,3 +32,10 @@ Feito o calculo de economia Azure
 
 ![image](https://github.com/user-attachments/assets/89a31d63-708f-4d31-aebf-06e35ab15ffe)
 
+# Quinta entrega: Gerenciando politicas de acesso #
+
+Feita a regra de proibição de exclusao 
+![image](https://github.com/user-attachments/assets/25973d88-fd0e-49d1-b255-a87b8176596b)
+
+Conta Purview criada
+![image](https://github.com/user-attachments/assets/22b3c0c7-cb93-44e7-9521-ce2aa812e873)
