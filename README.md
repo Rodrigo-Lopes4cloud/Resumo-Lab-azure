@@ -27,3 +27,8 @@ Em seguida a criação e verificação de roles de usuarios dentro do ENTRA ID.
 
 ![image](https://github.com/user-attachments/assets/b639b95d-7478-4a1e-a9f4-eb974ca6404b)
 
+# Quarta entrega : Otimzando custos no Azure #
+Feito o calculo de economia Azure
+
+![image](https://github.com/user-attachments/assets/89a31d63-708f-4d31-aebf-06e35ab15ffe)
+
