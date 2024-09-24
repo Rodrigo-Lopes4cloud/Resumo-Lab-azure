@@ -35,7 +35,14 @@ Feito o calculo de economia Azure
 # Quinta entrega: Gerenciando politicas de acesso #
 
 Feita a regra de proibição de exclusao 
+
 ![image](https://github.com/user-attachments/assets/25973d88-fd0e-49d1-b255-a87b8176596b)
 
 Conta Purview criada
 ![image](https://github.com/user-attachments/assets/22b3c0c7-cb93-44e7-9521-ce2aa812e873)
+
+# Sexta entrega: Ferramentas de implementação #
+
+Feito a rede privada para o funcionamento do powershell.
+
+![image](https://github.com/user-attachments/assets/5aba6dd4-00ea-4369-810c-562e34fdc43d)
