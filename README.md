@@ -46,3 +46,10 @@ Conta Purview criada
 Feito a rede privada para o funcionamento do powershell.
 
 ![image](https://github.com/user-attachments/assets/5aba6dd4-00ea-4369-810c-562e34fdc43d)
+
+# Setima entrega: Monitoramento inteligente Azure #
+
+Analise do Advisor no meu ambiente, oque devo fazer para melhorar.
+
+![image](https://github.com/user-attachments/assets/deaf8528-6b84-474b-8f99-350ec8887113)
+
